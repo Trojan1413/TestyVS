@@ -10,6 +10,9 @@ namespace App1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("jamnik");
+            Console.ReadLine();
+             //komentarz
         }
     }
 }
